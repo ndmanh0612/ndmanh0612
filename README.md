@@ -1,61 +1,120 @@
 <div align="center">
-  <!-- BANNER ĐỘNG TOKYO NIGHT -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:1a1b26,100:7aa2f7&height=200&section=header&text=MANH%20NGUYEN%20//%20AIE&fontSize=40&fontAlignY=36&desc=AI%20Engineer%20•%20HUCE%20Alumni&descAlignY=58&descSize=17&fontColor=ffffff" width="100%" alt="Header" />
 
-  <!-- DÒNG GÕ CHỮ DÒNG LỆNH TỰ ĐỘNG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=%3E_Architecting+Intelligent+AI+Systems;Fine-Tuning+LLMs+%26+Computer+Vision;Model+Quantization+%26+High-Throughput+Serving;Engineered+at+HUCE+(Hanoi+Univ.+of+Civil+Eng.)" alt="Typing SVG" />
-  </a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b26,100:7aa2f7&height=210&section=header&text=NGUYEN%20DUC%20MANH&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineering%20%7C%20LLMs%20%7C%20RAG%20%7C%20Computer%20Vision&descAlignY=58&descSize=16" alt="Nguyen Duc Manh header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+LLMs%2C+GraphRAG+%26+Computer+Vision;From+research+prototypes+to+real-world+systems" alt="Animated introduction" />
+
+[![GitHub followers](https://img.shields.io/github/followers/ndmanh0612?style=flat-square&logo=github&label=Followers&color=7aa2f7)](https://github.com/ndmanh0612?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=ndmanh0612&style=flat-square&color=7aa2f7)
+
 </div>
 
-<br>
+## 👨‍💻 About Me
 
 ```python
-from dataclasses import dataclass, field
-
-@dataclass
 class AIEngineer:
-    identity: str = "Nguyen Duc Manh (ndmanh0612)"
-    education: str = "Hanoi University of Civil Engineering (HUCE) 🏛️"
-    domain: list[str] = field(default_factory=lambda: [
-        "LLMs & RAG Architectures", 
-        "Computer Vision", 
-        "Model Quantization & Optimization"
-    ])
-    core_stack: list[str] = field(default_factory=lambda: [
-        "PyTorch", "Hugging Face", "CUDA", "FastAPI", "Docker"
-    ])
-    mission: str = "Transforming complex neural networks into low-latency production systems."
+    name = "Nguyen Duc Manh"
+    location = "Vietnam"
+    interests = ["LLMs", "GraphRAG", "Computer Vision", "AIoT"]
+    focus = "Designing practical AI systems and reliable backends"
+
+    def current_goal(self):
+        return "Build, measure, optimize, repeat."
 ```
 
----
+- 🔭 Exploring **LLM applications, retrieval-augmented generation, and AI agents**.
+- 🧠 Interested in **Computer Vision, model optimization, and intelligent systems**.
+- ⚙️ Building practical solutions that connect **AI models, APIs, databases, and deployment**.
+- 🎓 **Hanoi University of Civil Engineering (HUCE)**.
 
-### 🛠️ Neural Stack & Tooling
+## 🧰 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,fastapi,docker,linux,git&theme=dark" alt="Core Tools" />
-  
-  <br><br>
+**AI / Machine Learning**
 
-  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=flat-square&logo=langchain" />
-  <img src="https://img.shields.io/badge/NVIDIA-CUDA_Accelerated-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-Tracking-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
-</div>
-
----
-
-### 📈 GitHub Activity Matrix
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndmanh0612&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Wave Graph" />
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ndmanh0612&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndmanh0612&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" alt="AI and machine learning technologies" />
 </p>
+
+**Backend / Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,dotnet,postgres,mongodb,redis&theme=dark" alt="Backend and database technologies" />
+</p>
+
+**Infrastructure / Developer Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vscode&theme=dark" alt="Infrastructure and development tools" />
+</p>
+
+> Interests and tools shown here reflect my projects and learning areas, not proficiency certifications.
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [HR Onboarding Agent](https://github.com/ndmanh0612/HR-onboarding-agent)
+
+Exploring AI-assisted HR knowledge retrieval and onboarding workflows.
+
+`Python` `AI Agents` `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 [Tapcard IoT Project](https://github.com/ndmanh0612/tapcard-iotproject)
+
+An IoT-based project exploring attendance and connected devices, with potential AIoT extensions.
+
+`IoT` `RFID` `Connected Systems`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Gold Prediction App](https://github.com/ndmanh0612/GoldPrediction-APP)
+
+Application project focused on presenting gold prediction information.
+
+`TypeScript` `Web App`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐳 [Docker Compose Orchestration](https://github.com/ndmanh0612/Docker_Compose_Orchestration_demo)
+
+A project for exploring multi-service application orchestration using Docker Compose.
+
+`Docker` `DevOps`
+
+</td>
+</tr>
+</table>
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ndmanh0612&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ndmanh0612&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndmanh0612&layout=compact&theme=tokyonight&hide_border=true" alt="Most used GitHub languages" />
+
+</div>
+
+## 🤝 Let's Connect
+
+I'm interested in exchanging ideas and collaborating on **AI, backend engineering, and intelligent applications**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-ndmanh0612-181717?style=for-the-badge&logo=github)](https://github.com/ndmanh0612)
+
+<div align="center">
+
+<sub>Code • Experiment • Learn • Improve</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b26,100:7aa2f7&height=110&section=footer" alt="Footer" />
+
+</div>
