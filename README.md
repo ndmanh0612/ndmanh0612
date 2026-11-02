@@ -1,3 +1,16 @@
+<div align="center">
+  <!-- BANNER ĐỘNG TOKYO NIGHT -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,50:1a1b26,100:7aa2f7&height=200&section=header&text=MANH%20NGUYEN%20//%20AIE&fontSize=40&fontAlignY=36&desc=AI%20Engineer%20•%20HUCE%20Alumni&descAlignY=58&descSize=17&fontColor=ffffff" width="100%" alt="Header" />
+
+  <!-- DÒNG GÕ CHỮ DÒNG LỆNH TỰ ĐỘNG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=%3E_Architecting+Intelligent+AI+Systems;Fine-Tuning+LLMs+%26+Computer+Vision;Model+Quantization+%26+High-Throughput+Serving;Engineered+at+HUCE+(Hanoi+Univ.+of+Civil+Eng.)" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+```python
 from dataclasses import dataclass, field
 
 @dataclass
@@ -13,6 +26,7 @@ class AIEngineer:
         "PyTorch", "Hugging Face", "CUDA", "FastAPI", "Docker"
     ])
     mission: str = "Transforming complex neural networks into low-latency production systems."
+```
 
 ---
 
