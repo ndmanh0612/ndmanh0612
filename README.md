@@ -49,62 +49,6 @@ class AIEngineer:
 
 > Interests and tools shown here reflect my projects and learning areas, not proficiency certifications.
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [HR Onboarding Agent](https://github.com/ndmanh0612/HR-onboarding-agent)
-
-Exploring AI-assisted HR knowledge retrieval and onboarding workflows.
-
-`Python` `AI Agents` `RAG`
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 [Tapcard IoT Project](https://github.com/ndmanh0612/tapcard-iotproject)
-
-An IoT-based project exploring attendance and connected devices, with potential AIoT extensions.
-
-`IoT` `RFID` `Connected Systems`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [Gold Prediction App](https://github.com/ndmanh0612/GoldPrediction-APP)
-
-Application project focused on presenting gold prediction information.
-
-`TypeScript` `Web App`
-
-</td>
-<td width="50%" valign="top">
-
-### 🐳 [Docker Compose Orchestration](https://github.com/ndmanh0612/Docker_Compose_Orchestration_demo)
-
-A project for exploring multi-service application orchestration using Docker Compose.
-
-`Docker` `DevOps`
-
-</td>
-</tr>
-</table>
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ndmanh0612&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ndmanh0612&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndmanh0612&layout=compact&theme=tokyonight&hide_border=true" alt="Most used GitHub languages" />
-
-</div>
-
 ## 🤝 Let's Connect
 
 I'm interested in exchanging ideas and collaborating on **AI, backend engineering, and intelligent applications**.
